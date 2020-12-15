@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/customer-register.iml" filepath="$PROJECT_DIR$/.idea/customer-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-register-core/customer-register-core.iml" filepath="$PROJECT_DIR$/customer-register-core/customer-register-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-register-domain/customer-register-domain.iml" filepath="$PROJECT_DIR$/customer-register-domain/customer-register-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-register-jpa/customer-register-jpa.iml" filepath="$PROJECT_DIR$/customer-register-jpa/customer-register-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-register-rest/customer-register-rest.iml" filepath="$PROJECT_DIR$/customer-register-rest/customer-register-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-register-starter/customer-register-starter.iml" filepath="$PROJECT_DIR$/customer-register-starter/customer-register-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-register-test/customer-register-test.iml" filepath="$PROJECT_DIR$/customer-register-test/customer-register-test.iml" />
+    </modules>
+  </component>
+</project>
